@@ -1,1 +1,1 @@
-include: [".well-known", "pay"]
+include: [".well-known", "pay", "pay-test"]
